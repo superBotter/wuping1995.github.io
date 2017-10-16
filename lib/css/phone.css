@@ -534,10 +534,10 @@ div.gt_logo a {
 .elevator li a {
     position: relative;
     display: inline-block;
-    width: 1.6rem;
-    height: 1.6rem;
+    width: 2rem;
+    height: 2rem;
     text-align: center;
-    line-height: 1.6rem;
+    line-height: 2.2rem;
     font-size: 0.96rem;
     color: #fff;
     border-radius: 50%;
@@ -863,8 +863,8 @@ div.gt_logo a {
 
 .pageA .show_me ._photo {
     margin: 0 auto;
-    width: 6.4rem;
-    height: 6.4rem;
+    width: 8.4rem;
+    height: 8.4rem;
     border-radius: 50%;
     -webkit-transition: .3s;
     transition: .3s;
@@ -891,15 +891,15 @@ div.gt_logo a {
     width: 100%;
     margin: 0 auto;
     position: relative;
-    padding-top: 2.13333rem
+    padding-top: 5rem
 }
 
 .pageA .show_me .text h3 {
     width: 80%;
     margin: 0 auto;
-    margin-bottom: 4.26667rem;
+    margin-bottom: 8rem;
     color: #fff;
-    font-size: 0.96rem;
+    font-size: 1.2rem;
     text-align: center;
     position: relative;
     -webkit-transform: translateY(200%) scale(0);
@@ -1016,7 +1016,7 @@ div.gt_logo a {
     width: 100%;
     text-align: center;
     color: #fff;
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin: 0 auto;
     line-height: 1.86667rem
 }
@@ -1060,15 +1060,16 @@ div.gt_logo a {
 }
 
 .pageB .about_me {
-    width: 16rem;
+    /* width: 16rem; */
     height: 2.13333rem;
-    font-size: 0.96rem;
+    font-size: 1.8rem;
     line-height: 2.13333rem;
     color: #fff;
     text-align: center;
-    top: 2.13333rem;
+    top: 2rem;
     left: 50%;
     margin-left: -40%;
+    margin-bottom: 30rem;
     -webkit-transform: translateY(-300%);
     -ms-transform: translateY(-300%);
     transform: translateY(-300%);
@@ -1082,7 +1083,7 @@ div.gt_logo a {
     width: 16rem;
     height: 13.33333rem;
     position: absolute;
-    top: 5.33333rem;
+    top: 10rem;
     left: 50%;
     margin-left: -8rem
 }
@@ -1278,7 +1279,7 @@ div.gt_logo a {
 .pageB .text {
     width: 100%;
     position: absolute;
-    top: 20.26667rem;
+    top: 28.333333rem;
     left: 50%;
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
@@ -1287,12 +1288,12 @@ div.gt_logo a {
 
 .pageB .text p {
     width: 100%;
-    height: 1.6rem;
-    line-height: 1.6rem;
+    height: 2rem;
+    line-height: 2rem;
     text-align: center;
     color: #fff;
-    font-size: 1rem;
-    letter-spacing: 1px;
+    font-size: 1.2rem;
+    letter-spacing: 1.5px;
     -webkit-transform: translateX(-100%);
     -ms-transform: translateX(-100%);
     transform: translateX(-100%);
@@ -1494,11 +1495,11 @@ div.gt_logo a {
 .pageC .title {
     height: 2.13333rem;
     width: 100%;
-    font-size: 0.96rem;
+    font-size: 1.2rem;
     color: #fff;
     text-align: center;
     position: absolute;
-    top: 2.13333rem;
+    top: 5.13333rem;
     -webkit-transform: scaleX(0);
     -ms-transform: scaleX(0);
     transform: scaleX(0);
@@ -1510,7 +1511,7 @@ div.gt_logo a {
 .pageC .content {
     width: 100%;
     margin: 0 auto;
-    padding-top: 5.33333rem;
+    padding-top: 11.33333rem;
     position: relative;
     display: -webkit-box;
     display: -webkit-flex;
@@ -1762,17 +1763,17 @@ div.gt_logo a {
 .pageC .text {
     position: absolute;
     width: 100%;
-    height: 5.33333rem;
-    bottom: 4.26667rem;
+    height: 7.33333rem;
+    bottom: 12.26667rem;
     margin: 0 auto;
     text-align: center
 }
 
 .pageC .text p {
     color: #fff;
-    font-size: 1rem;
-    margin: 5px auto;
-    line-height: 1.06667rem;
+    font-size: 1.2rem;
+    margin: 7px auto;
+    line-height: 1.16667rem;
     -webkit-transform: scale(0);
     -ms-transform: scale(0);
     transform: scale(0);
@@ -2050,16 +2051,16 @@ div.gt_logo a {
     left: 50%;
     margin-left: -30%;
     text-align: center;
-    font-size: 0.96rem;
+    font-size: 1.5rem;
     color: #fff;
     position: absolute;
-    top: 2.4rem
+    top: 4.4rem
 }
 
 .pageF .content .main {
-    width: 18.66667rem;
+    width: 20.66667rem;
     position: absolute;
-    top: 6.93333rem;
+    top: 8.93333rem;
     left: 50%;
     margin-left: -9.33333rem
 }
@@ -2075,7 +2076,7 @@ div.gt_logo a {
 
 .pageF .content .main .hope span {
     width: 25%;
-    font-size: 0.85333rem;
+    font-size: 1.25333rem;
     margin-right: 0.16rem;
     text-align: center
 }
@@ -2105,7 +2106,8 @@ div.gt_logo a {
     margin: 0 auto;
     text-align: center;
     color: #fff;
-    font-size: 0.8rem;
+    font-size: 1.0111111111rem;
+    padding-top: 10px;
     line-height: 1.6rem
 }
 
